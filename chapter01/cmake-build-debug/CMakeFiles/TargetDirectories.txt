@@ -1,0 +1,3 @@
+/home/den4dr/workspace/personal-project/GameProgrammingCpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/den4dr/workspace/personal-project/GameProgrammingCpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/den4dr/workspace/personal-project/GameProgrammingCpp/cmake-build-debug/CMakeFiles/GameProgrammingCpp.dir
