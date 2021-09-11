@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/GameProgrammingCpp.dir/Main.cpp.o CMakeFiles/GameProgrammingCpp.dir/Game.cpp.o -o GameProgrammingCpp  /home/den4dr/.local/vcpkg/installed/x64-linux/debug/lib/libSDL2d.a /home/den4dr/.local/vcpkg/installed/x64-linux/debug/lib/libSDL2maind.a /home/den4dr/.local/vcpkg/installed/x64-linux/debug/lib/libSDL2d.a -lm -ldl -Wl,--no-undefined -pthread 
