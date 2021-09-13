@@ -10,15 +10,13 @@
 
 // Vector2 struct just stores x/y coordinates
 // (for now)
-struct Vector2
-{
+struct Vector2 {
     float x;
     float y;
 };
 
 // Game class
-class Game
-{
+class Game {
 public:
     Game();
     // Initialize the game
@@ -27,6 +25,7 @@ public:
     void RunLoop();
     // Shutdown the game
     void Shutdown();
+
 private:
     // Helper functions for the game loop
     void ProcessInput();
@@ -34,9 +33,9 @@ private:
     void GenerateOutput();
 
     // Window created by SDL
-    SDL_Window* mWindow;
+    SDL_Window *mWindow;
     // Renderer for 2D drawing
-    SDL_Renderer* mRenderer;
+    SDL_Renderer *mRenderer;
     // Number of ticks since start of game
     Uint32 mTicksCount;
     // Game should continue to run
@@ -52,4 +51,3 @@ private:
     // Velocity of ball
     Vector2 mBallVel;
 };
-
